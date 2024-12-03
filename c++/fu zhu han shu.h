@@ -1,0 +1,3 @@
+//¶¨Òåº¯Êý 
+void print();
+void qipan();
